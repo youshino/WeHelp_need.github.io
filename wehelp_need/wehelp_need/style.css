@@ -1,0 +1,63 @@
+.bd{
+    position:fixed;
+    top:0;
+    left:0;
+    right:0;
+    z-index:-1;
+}
+.bd img{
+    min-height:100%;
+    width:100%;
+}
+
+.topborder{
+    border:10px double rgba(87, 207, 26, 0.37); 
+    width:devide-width,initial-scale=1.0; 
+    height:100px; 
+    background-color:rgba(180, 213, 103, 0.247);
+}
+
+.topcontext{
+    text-align:center; 
+    font-size: 40px; 
+    color:rgb(26, 119, 131);
+}
+
+#background{
+    font-size:15px; 
+    border:2px solid rgba(239, 230, 230, 0.893); 
+    background-color:rgba(56, 192, 74, 0.515);
+    margin:5px;
+}
+
+.context{
+    font-size:20px;
+    font-weight:bold;
+    font-style:italic;
+}
+
+#underline{
+    text-decoration: underline;
+}
+
+.text1{
+    text-align:center; 
+    height:2px;
+    font-weight:normal;
+}
+
+.text{
+    text-align:center;
+    font-weight:normal;
+}
+
+.line{
+    size:1px; Width:1300px;
+     height:1.1px; 
+     align-content:center;
+}
+
+p{
+    font-weight:bold;
+}
+
